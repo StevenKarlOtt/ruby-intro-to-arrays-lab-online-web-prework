@@ -19,5 +19,5 @@ def last_element(array)
 end
 
 def firs_element_with_array_methods(array)
-  return array.shift
+   array.shift
 end
